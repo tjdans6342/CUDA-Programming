@@ -25,6 +25,7 @@ CPU에서 가우스 소거법은 $0 \leq i < N$인 i에 대해 $(i, i)$의 원�
 
 ## GPU를 이용한 가우스 소거법
 GPU를 이용하면 가우스 소거법의 $(N^2)$에 해당하는 연산을 아래의 그림과 같이 (이론적으로는) 상수 시간 $O(1)$에 처리할 수 있다.  
+
 ![image](https://user-images.githubusercontent.com/70836243/230706122-802a4ef0-753c-46ce-be83-0728258f570e.png)
 
 <br>
